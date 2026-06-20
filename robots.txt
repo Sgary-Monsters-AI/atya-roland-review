@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /
+
+Sitemap: https://atya.gary-ai.cc/sitemap.xml
